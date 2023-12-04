@@ -1,9 +1,9 @@
 Languages used
-- HTML,CSS and JavaScript(React.js)
+HTML,CSS and JavaScript(React.js)
 - how to open react project file
 - command 
 - npm create vite@latest file-name -- --template react
--after created file - npm install
+- after created file - npm install
 - About Application
 - Shopping card Application created using "React + Vite"
 - App.jsx File includes 1 main components
